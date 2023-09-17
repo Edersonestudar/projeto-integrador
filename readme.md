@@ -14,8 +14,6 @@ O trabalho nesse semestre foi dividido em duas partes onde primeiramente foi dis
 ### Diagrama de classes <br>
 ![Diagrama de classes](https://github.com/Edersonestudar/projeto-integrador/assets/111811452/79f892ff-c48f-4649-ba03-86bf925f7a5e) <br><br><br>
 
-Na segunda parte, fizemos a prototipagem do software tomando como base os diagramas entregues na primeira parte do trabalho, para o desenvolvimento das telas foram usados como auxiliares os sites <a href="http://www.figma.com/"> Figma</a>
- e <a href="http://www.miro.com/"> Miro</a>. <br><br>
-
 ## Parte II - Prototipagem <br>
+Na segunda parte, fizemos a prototipagem do software tomando como base os diagramas entregues na primeira parte do trabalho, para o desenvolvimento das telas foram usados como auxiliares os sites <a href="http://www.figma.com/"> Figma</a> e <a href="http://www.miro.com/"> Miro</a>. <br><br>
 
