@@ -42,6 +42,7 @@ Na segunda parte, fizemos a prototipagem do software tomando como base os diagra
 ![ADD Teacher](https://github.com/Edersonestudar/projeto-integrador/assets/111811452/fdb83597-3c61-43c8-9a24-7132c1aa530f) <br><br>
 
 ### Gerenciar fornecedores <br>
+![ManageSuppliers@1](https://github.com/Edersonestudar/projeto-integrador/assets/111811452/ce88166a-505c-4051-96ff-6b122befda68) <br><br>
 
 ### Adicionar/Editar fornecedores <br>
 ![ADD Supliers](https://github.com/Edersonestudar/projeto-integrador/assets/111811452/c7816e74-0168-4c4b-be35-407abb25a384)
