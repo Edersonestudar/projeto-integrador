@@ -46,3 +46,28 @@ Na segunda parte, fizemos a prototipagem do software tomando como base os diagra
 
 ### Adicionar/Editar fornecedores <br>
 ![ADD Supliers](https://github.com/Edersonestudar/projeto-integrador/assets/111811452/c7816e74-0168-4c4b-be35-407abb25a384)
+
+
+# Protótipo desenvolvido em HTML e CSS <br>
+## Não esta exatamente igual ao protótipo desenvolvido pela plataforma miro, mas foi desenvolvido para futuramente irmos nos adequando e conseguindo chegar até o protótipo original desenvolvido inicialmente. Ainda faltam funcionalidades essenciais, como: a parte do Back-End. Mas nossa equipe está disposta a ir melhorando o sistema e ir implementando para chegarmos ao resultado final.
+## Abaixo está o código e o designer feito por HTML e CSS, feito com a classe CSS separada do código HTML, para um código mais limpo e saudável.
+
+### Código (HTML) utilizando classes CSS para uma forma limpa de codar e saúde do sistema. <br>
+![Codigo1](https://github.com/Edersonestudar/projeto-integrador/assets/101535011/3410cc62-8c7b-4dae-96ca-25fe231b1007)
+
+### Código (HTML) utilizando classes CSS para uma forma limpa de codar e saúde do sistema. <br>
+![codigo2](https://github.com/Edersonestudar/projeto-integrador/assets/101535011/d8da9006-86c1-41e0-a437-7cd47549db0e)
+
+### Código (HTML) utilizando classes CSS para uma forma limpa de codar e saúde do sistema. <br>
+![codigo3](https://github.com/Edersonestudar/projeto-integrador/assets/101535011/a0f0a888-0d40-43dd-828a-7f874eb71bc5)
+
+## Abaixo está o designer concluído feito com HTML e CSS, foi adicionado uma responsividade nesta aplicação, como podem ver nas fotos abaixo:
+
+### Instituto de Tecnologia - HTML e CSS (Tela completa)<br>
+![FormularioCadastro](https://github.com/Edersonestudar/projeto-integrador/assets/101535011/b6177b75-8676-4ec4-a9ce-0744dd820a40)
+
+### Instituto de Tecnologia - HTML e CSS (Responsividade)<br>
+![Responsividade1Cadastro](https://github.com/Edersonestudar/projeto-integrador/assets/101535011/51bf6da9-123d-47f0-a1cb-a94ee2c4461e)
+
+### Instituto de Tecnologia - HTML e CSS (Responsividade acionando a Scrollbar)<br>
+![Responsividade2Cadastro](https://github.com/Edersonestudar/projeto-integrador/assets/101535011/03a1f133-9e3a-4a47-bb7c-57da1a8bf3e3)
