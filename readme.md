@@ -50,7 +50,7 @@ Na segunda parte, fizemos a prototipagem do software tomando como base os diagra
 
 # Protótipo desenvolvido em HTML e CSS <br>
 ## Não esta exatamente igual ao protótipo desenvolvido pela plataforma miro, mas foi desenvolvido para futuramente irmos nos adequando e conseguindo chegar até o protótipo original desenvolvido inicialmente. Ainda faltam funcionalidades essenciais, como: a parte do Back-End. Mas nossa equipe está disposta a ir melhorando o sistema e ir implementando para chegarmos ao resultado final.
-## Abaixo está o código e o designer feito por HTML e CSS, feito com a classe CSS separada do código HTML, para um código mais limpo e saudável.
+## Abaixo está o código e o designer feito em HTML e CSS, feito com a classe CSS separada do código HTML, para um código mais limpo e saudável.
 
 ### Código (HTML) utilizando classes CSS para uma forma limpa de codar e saúde do sistema. <br>
 ![Codigo1](https://github.com/Edersonestudar/projeto-integrador/assets/101535011/3410cc62-8c7b-4dae-96ca-25fe231b1007)
